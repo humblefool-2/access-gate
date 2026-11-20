@@ -1,0 +1,12 @@
+bin/
+.env
+.claude/settings.local.json
+data/
+.idea/
+# built binary of the example service
+examples/wallet-service/service
+.DS_Store
+CLAUDE.md
+*-checklist.md
+.claude/
+benchmarks/results/

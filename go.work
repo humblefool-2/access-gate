@@ -1,8 +1,7 @@
-go workspace
 go 1.26.11
 
 use (
-  .
-  ./examples/wallet-service
-  ./benchmarks
+	.
+	./examples/wallet-service
+	./benchmarks
 )
